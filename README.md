@@ -1,6 +1,3 @@
-# 2026-examenfinal_M1
-Examen Final M1 FullStack
-
 # 2026-examen-final-m1
 Examen final del módulo 2026
 
